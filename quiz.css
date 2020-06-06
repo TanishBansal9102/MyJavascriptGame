@@ -1,0 +1,58 @@
+#button button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  margin-top:20px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  outline: none;
+}
+
+#button button:hover{
+	transform: scale(1.1);
+	background-color:#46a049;
+}
+
+#options h4{
+ background-color: #f1f1f1;
+ margin:3px auto;
+ font-weight: 400;
+ font-size:20px;
+ padding:4px;
+}
+
+#options h4:hover{
+	background-color: #e6e6e6;
+}
+
+#content{
+	font-family: "Segoe UI",Arial,sans-serif;  
+	font-weight:200;
+	margin-left:30px;
+	margin-right: 100px;
+}
+
+.hide{
+	display:none;
+}
+
+
+input[type="radio"]{
+	cursor: pointer;
+}
+
+h3{
+	font-size:30px;
+}
+
+h2{
+	font-size:40px;
+}
+
+h1{
+	font-size:50px;
+}
